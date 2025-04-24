@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "850373162507",
+    "firebase_url": "https://halal-bca9c.firebaseio.com",
+    "project_id": "halal-bca9c",
+    "storage_bucket": "halal-bca9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850373162507:android:1058caed289034157bb90e",
+        "android_client_info": {
+          "package_name": "com.halalalemarat.halalalemarat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850373162507-1l9m37skugrgcttmick6bg750fcb84tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halalalemarat.halalalemarat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "850373162507-4gq0jld4aj2phof2o0e6q7sbfo07c8r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halalalemarat.halalalemarat",
+            "certificate_hash": "eb48ff5101c9f9060b1b6e4689c45c12311f5fed"
+          }
+        },
+        {
+          "client_id": "850373162507-8erof6c6u3pn8vr6u6lhtiurlu5ckqj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58udIGIICjYnCg12QgTw03AUkHln2EC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850373162507-8erof6c6u3pn8vr6u6lhtiurlu5ckqj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850373162507-6259n67a0lnsp5k5gmel0niidj16q7tj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halaldriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850373162507:android:014b8488d78261467bb90e",
+        "android_client_info": {
+          "package_name": "com.halaldriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850373162507-8erof6c6u3pn8vr6u6lhtiurlu5ckqj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58udIGIICjYnCg12QgTw03AUkHln2EC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850373162507-8erof6c6u3pn8vr6u6lhtiurlu5ckqj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850373162507-6259n67a0lnsp5k5gmel0niidj16q7tj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halaldriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850373162507:android:723877aa0fff64fc7bb90e",
+        "android_client_info": {
+          "package_name": "com.halalshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850373162507-8erof6c6u3pn8vr6u6lhtiurlu5ckqj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58udIGIICjYnCg12QgTw03AUkHln2EC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850373162507-8erof6c6u3pn8vr6u6lhtiurlu5ckqj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850373162507-6259n67a0lnsp5k5gmel0niidj16q7tj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halaldriver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850373162507:android:f1cf3e81fe3916977bb90e",
+        "android_client_info": {
+          "package_name": "com.oasislivestock.halal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850373162507-8erof6c6u3pn8vr6u6lhtiurlu5ckqj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58udIGIICjYnCg12QgTw03AUkHln2EC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850373162507-8erof6c6u3pn8vr6u6lhtiurlu5ckqj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850373162507-6259n67a0lnsp5k5gmel0niidj16q7tj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halaldriver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
