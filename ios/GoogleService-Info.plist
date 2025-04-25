@@ -2,20 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>850373162507-rpu8dhr59rch5ihln7k7f80slmucrmvc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.850373162507-rpu8dhr59rch5ihln7k7f80slmucrmvc</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>46439986389-8pthcfeijmo81a1mei9be9ths5dd4sn1.apps.googleusercontent.com</string>
+	<string>850373162507-1l9m37skugrgcttmick6bg750fcb84tq.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDN3MGJlNuD8xsWxZ02MpVRWlzTc7l6RNQ</string>
+	<string>AIzaSyAE9h80lv5R36a1HjsWQT4i049ZsTqvyE8</string>
 	<key>GCM_SENDER_ID</key>
-	<string>46439986389</string>
+	<string>850373162507</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.OasisLiveStock.ZShops</string>
+	<string>com.halalmazarana.shops</string>
 	<key>PROJECT_ID</key>
-	<string>zabehaty-98bce</string>
+	<string>halal-bca9c</string>
 	<key>STORAGE_BUCKET</key>
-	<string>zabehaty-98bce.appspot.com</string>
+	<string>halal-bca9c.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -27,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:46439986389:ios:8a53fa179b82d354f31e5c</string>
+	<string>1:850373162507:ios:7a7e785ecd704ba27bb90e</string>
 	<key>DATABASE_URL</key>
-	<string>https://zabehaty-98bce.firebaseio.com</string>
+	<string>https://halal-bca9c.firebaseio.com</string>
 </dict>
 </plist>
