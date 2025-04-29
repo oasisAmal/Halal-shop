@@ -21,7 +21,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'ZabehatyShopApp' do
+target 'HalalShopApp' do
   config = use_native_modules!
   permissions_path = '../node_modules/react-native-permissions/ios'
   
@@ -36,7 +36,7 @@ target 'ZabehatyShopApp' do
     # Hermes is now enabled by default. Disable by setting this flag to false.
     # Upcoming versions of React Native may rely on get_default_flags(), but
     # we make it explicit here to aid in the React Native upgrade process.
-    :hermes_enabled => flags[:hermes_enabled],
+    :hermes_enabled => false,
     :fabric_enabled => flags[:fabric_enabled],
     # Enables Flipper.
     #
@@ -58,7 +58,7 @@ target 'ZabehatyShopApp' do
 #  pod 'FirebaseCoreInternal', :modular_headers => true
 #  pod 'GoogleUtilities', :modular_headers => true
 
-  target 'ZabehatyShopAppTests' do
+  target 'HalalShopAppTests' do
     inherit! :complete
     # Pods for testing
   end

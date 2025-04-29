@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>Halal shops</string>
+	<string>HalalShopApp</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -38,7 +38,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>We need access your camera to upload your profile pic and your ads</string>
 	<key>NSContactsUsageDescription</key>
-	<string>Z shops needs to access your contacts</string>
+	<string>Halal shops needs to access your contacts</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>We need your location To help you for Tracking your Order and adding your address</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
